@@ -54,10 +54,8 @@ Please delete options that are not relevant.
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
-- [ ] My pull request represents one logical piece of work.
-- [ ] My commits are related to the pull request and look clean.
+- [ ] My commits are clean and follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#examples) style.
 - [ ] I have created reusable components wherever possible.
-- [ ] I have added appropriate tests and documentation.
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
