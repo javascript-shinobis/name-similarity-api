@@ -128,6 +128,11 @@ dependencies:
     specifier: ^3.21.4
     version: 3.21.4
 
+devDependencies:
+  husky:
+    specifier: ^8.0.3
+    version: 8.0.3
+
 packages:
 
   /@babel/code-frame@7.21.4:
@@ -2576,6 +2581,12 @@ packages:
     dependencies:
       react-is: 16.13.1
     dev: false
+
+  /husky@8.0.3:
+    resolution: {integrity: sha512-+dQSyqPh4x1hlO1swXBiNb2HzTDN1I2IGLQx1GrBuiqFJfoMrnZWwVmatvSiO+Iz8fBUnf+lekwNo4c2LlXItg==}
+    engines: {node: '>=14'}
+    hasBin: true
+    dev: true
 
   /ieee754@1.2.1:
     resolution: {integrity: sha512-dcyqhDvX1C46lXZcVqCpK+FtMRQVdIMN6/Df5js2zouUsqG7I6sFxitIC+7KYK29KdXOLHdu9zL4sFnoVQnqaA==}
